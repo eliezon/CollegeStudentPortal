@@ -54,7 +54,7 @@
                 <input type="text" name="" id="" placeholder="student ID">
                 <input type="password" name="" id="" placeholder="password">
                 <br>
-                <input type="checkbox">
+                <input type="checkbox" style="accent-color: red">
                 <div class="asd">
                     <p>Remember me</p>
                 <a href="#">Forgot password?</a>

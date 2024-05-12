@@ -1,7 +1,9 @@
 * {
     font-family: sans-serif;
 }
-
+.con {
+    max-width: 1200px;
+}
 body {
     margin: 0 auto;
     box-sizing: border-box;
@@ -70,7 +72,12 @@ input {
     margin-bottom: 10px;
     padding-left: 10px;
 }
-
+input:focus {
+    border: 1px solid red;
+}
+input[type="checkbox"] {
+    accent-color: red;
+}
 input::placeholder {
     text-transform: capitalize;
 }
@@ -213,6 +220,12 @@ input[type="checkbox"] {
     justify-content: space-between;
     margin-top: -70px;
     margin-bottom: 30px;
+}
+.asd a {
+    text-decoration: none;
+}
+.asd a:hover {
+    text-decoration: underline;
 }
 .asd p {
     transform: translateX(30px);

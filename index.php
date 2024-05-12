@@ -76,9 +76,8 @@
          
 
           <div class="buttons">
-            <a href="login-register.php">
-          <button class="button1">Register</button>
-          </a>
+          <a href="login-register.php?show=login"><button>Sign In</button></a>
+            <a href="login-register.php"><button>Register</button></a>
         </div>
         </div>
       </div>
@@ -182,10 +181,10 @@
 
             <div class="col-lg-6 " data-aos="fade-up" data-aos-delay="200">
               <div class="service-item d-flex">
-                <div class="icon flex-shrink-0"><img src="assets/images/grade.png" alt=""></div>
+                <div class="icon flex-shrink-0"><img src="assets/images/course-catalog.png" alt=""></div>
                 <div>
-                  <h4 class="title"><a href="#" class="stretched-link">Lorem Ipsum</a></h4>
-                  <p class="description">jioasduvshjvis ihsdvhi sivhd ishdwqu9e 9uwvusiod isud iusd u9 sduf sudi9s sdufi usdu</p>
+                  <h4 class="title"><a href="#" class="stretched-link">Course Catalog</a></h4>
+                  <p class="description">Provide a comprehensive catalog of available courses with detailed descriptions, prerequisites, and course schedules</p>
                 </div>
               </div>
             
@@ -193,10 +192,10 @@
 
             <div class="col-lg-6 " data-aos="fade-up" data-aos-delay="100">
               <div class="service-item d-flex">
-                <div class="icon flex-shrink-0"><img src="assets/images/grade.png" alt=""></div>
+                <div class="icon flex-shrink-0"><img src="assets/images/profile-management.png" alt=""></div>
                 <div>
-                  <h4 class="title"><a href="#" class="stretched-link">Lorem Ipsum</a></h4>
-                  <p class="description">jioasduvshjvis ihsdvhi sivhd ishdwqu9e 9uwvusiod isud iusd u9 sduf sudi9s sdufi usdu</p>
+                  <h4 class="title"><a href="#" class="stretched-link">Student Profile Management</a></h4>
+                  <p class="description">Allow students to update personal information, contact details, emergency contacts, and preferences within the portal</p>
                 </div>
               </div>
             
@@ -381,7 +380,7 @@
                   <p>Monday - Friday</p>
                   <p>8:00AM - 05:00PM</p>
                   <p>Saturday</p>
-                  <p>8:00AM - :00PM</p>
+                  <p>8:00AM - :12:00PM</p>
                 </div>
               </div><!-- End Info Item -->
 
